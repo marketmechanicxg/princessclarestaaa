@@ -20,7 +20,7 @@ const WEBSITE_PIN = "0106";              // ← GANTI PIN
    2. NAMA PENERIMA
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    Nama yang muncul di halaman utama (hero).                      */
-const RECIPIENT_NAME = "Claresta";           // ← GANTI NAMA
+const RECIPIENT_NAME = "Clresta";           // ← GANTI NAMA
 
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -46,7 +46,7 @@ const MUSIC_TRACKS = [
    Nama file harus:  img1.jpeg  img2.jpeg  … img8.jpeg
    Ganti caption (keterangan foto) di setiap baris.               */
 const GALLERY_PHOTOS = [
-  { file: "img1.jpeg", caption: "i never told you enough how much that smile meant to me. i should have." },  // ← GANTI CAPTION
+  { file: "img1.jpeg", caption: "i never told you enough how much that smile meant to me. i should have." },
   { file: "img2.jpeg", caption: "you gave me so much, and i'm sorry i didn't always show that i noticed." },
   { file: "img3.jpeg", caption: "every moment with you deserved more care than i gave it. i know that now." },
   { file: "img4.jpeg", caption: "i found something rare in you. i'm sorry i didn't protect it the way i should have." },
@@ -69,7 +69,6 @@ const LETTER_PARAGRAPHS = [
 "i really hope setelah kamu baca ini, youll feel a little better than before yaa:(. kalau ternyata belum juga, its owkayy kok, aku ngerti:(  i just wanted you to know how sorry i am.",
 "take care yaa, and once again.. im really sorry, klarr:( 🤍",
 "i love youu klarr💗",
-
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
